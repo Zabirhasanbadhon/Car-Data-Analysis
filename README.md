@@ -113,13 +113,4 @@ On Windows, reinstall or modify your Python installation to include Tcl/Tk. On U
 sudo apt install python3-tk
 ```
 
-## 🔮 Possible Future Improvements
-
-- Interactive charts and visual analytics
-- Additional filters and sorting options
-- More missing-value strategies
-- Summary statistics and correlation analysis
-- Exportable analysis reports
-- Packaging as a standalone desktop executable
-
 **Made with Python, Tkinter, and Pandas.**

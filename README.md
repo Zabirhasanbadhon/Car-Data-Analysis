@@ -1,4 +1,4 @@
-# 🚗 Cars Data Analysis GUI
+# 🚗 Cars Data Analysis
 
 A modern desktop application for exploring, cleaning, filtering, and analyzing car data. Built with **Python**, **Tkinter**, and **Pandas**, this project provides a user-friendly graphical interface for common data-analysis tasks without requiring Jupyter Notebook.
 

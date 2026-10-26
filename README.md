@@ -105,4 +105,8 @@ On Windows, reinstall or modify your Python installation to include Tcl/Tk. On U
 sudo apt install python3-tk
 ```
 
-**Made with Python, Tkinter, and Pandas.**
+## 👨‍💻 Author
+
+**ZaBir HaSan**
+
+Made with ❤️ using Python and Tkinter.

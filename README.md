@@ -39,14 +39,6 @@ A modern desktop application for exploring, cleaning, filtering, and analyzing c
 - **Tkinter** — desktop graphical user interface
 - **Pandas** — data loading, cleaning, filtering, and analysis
 
-## 📁 Project Structure
-
-```text
-Cars-Data-Analysis-GUI/
-├── cars_data_analysis_gui.py
-├── Cars_Dataset.csv             # Add your dataset here, if you plan to include it
-└── README.md
-```
 
 The dataset is selected from inside the application, so it does not have to be stored in the project folder. Only commit a dataset if you have permission to share it.
 
